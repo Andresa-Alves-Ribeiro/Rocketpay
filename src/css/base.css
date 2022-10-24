@@ -36,8 +36,8 @@ body {
   justify-content: center;
   gap: 3.2rem;
 
-  width: 90%;
-  max-width: 50rem;
+  width: 50%;
+  max-width: 100rem;
   margin: 0 auto;
 
   padding: 9rem 6rem 10rem;
