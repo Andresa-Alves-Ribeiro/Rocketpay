@@ -19,7 +19,8 @@
 
 body {
   font-size: 1.6rem;
-  background-image: url("../../public/background-cartao-de-credito.webp");
+  background-image: url("background-cartao-de-credito.jpg");
+  background-size: cover;
 
   display: flex;
   place-items: center;
@@ -37,11 +38,12 @@ body {
   gap: 3.2rem;
 
   width: 90%;
-  max-width: 100rem;
+  max-width: 42rem;
   margin: 0 auto;
 
-  padding: 9rem 6rem 10rem;
-  background-image: url("../../public/background.jpg");
+  padding: 2.8rem 6rem 4rem;
+  background-image: url("/background.jpg");
+  background-size: cover;
   border: 0.1rem solid #323238;
   border-radius: 4rem;
 }
@@ -49,10 +51,11 @@ body {
 #app header {
   display: flex;
   align-items: center;
-  padding-bottom: 5rem;
-  width: 500px;
+  padding-bottom: 5.5rem;
+  padding-top: 2rem;
+  width: 420px;
 }
 
 #app header img{
-  width: 30rem;
+  width: 20rem;
 }
