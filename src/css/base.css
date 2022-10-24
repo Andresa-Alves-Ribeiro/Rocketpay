@@ -19,7 +19,7 @@
 
 body {
   font-size: 1.6rem;
-  background-image: url("background-cartao-de-credito.jpg");
+  background-image: url("/background-cartao-de-credito.jpg");
   background-size: cover;
 
   display: flex;
