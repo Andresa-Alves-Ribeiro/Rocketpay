@@ -1,0 +1,58 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  font-size: 62.5%;
+
+  font-family: Inter, sans-serif;
+  color: rgba(255, 255, 255, 0.87);
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  font-size: 1.6rem;
+  background-image: url("../../public/background-cartao-de-credito.webp");
+
+  display: flex;
+  place-items: center;
+
+  min-height: 100vh;
+}
+
+.flex {
+  display: flex;
+}
+
+#app {
+  display: grid;
+  justify-content: center;
+  gap: 3.2rem;
+
+  width: 90%;
+  max-width: 100rem;
+  margin: 0 auto;
+
+  padding: 9rem 6rem 10rem;
+  background-image: url("../../public/background.jpg");
+  border: 0.1rem solid #323238;
+  border-radius: 4rem;
+}
+
+#app header {
+  display: flex;
+  align-items: center;
+  padding-bottom: 5rem;
+  width: 500px;
+}
+
+#app header img{
+  width: 30rem;
+}
