@@ -37,10 +37,10 @@ body {
   gap: 3.2rem;
 
   width: 90%;
-  max-width: 42rem;
+  max-width: 100rem;
   margin: 0 auto;
 
-  padding: 2.8rem 6rem 4rem;
+  padding: 9rem 6rem 10rem;
   background-image: url("../../public/background.jpg");
   border: 0.1rem solid #323238;
   border-radius: 4rem;
