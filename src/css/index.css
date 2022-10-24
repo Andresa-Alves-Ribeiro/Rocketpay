@@ -28,8 +28,8 @@
       "A B"
       "C B";
 
-    //width: fit-content;
-    //max-width: fit-content;
+    width: fit-content;
+    max-width: fit-content;
     padding-inline: 4.8rem;
 
     grid-template-columns: 0.8fr 1fr;
