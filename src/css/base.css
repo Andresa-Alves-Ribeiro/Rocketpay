@@ -49,10 +49,7 @@ body {
 #app header {
   display: flex;
   align-items: center;
-  padding-bottom: 5rem;
-  width: 500px;
 }
 
 #app header img{
-  width: 30rem;
 }
