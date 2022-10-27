@@ -2,13 +2,16 @@
 @import "credit-card.css";
 @import "form.css";
 
-@media (max-width: 420px) {
+@media (max-width: 450px) {
   :root {
     font-size: 50%;
   }
 
   body {
-    background: black;
+    background-image: url("/background.jpg");
+    padding-inline: 10rem;
+    width: fit-content;
+    max-width: fit-content;
   }
 
   #app {
