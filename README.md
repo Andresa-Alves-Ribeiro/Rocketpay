@@ -12,15 +12,12 @@ Desenvolvido em um evento exclusivo e gratuito, promovido pela Rocketseat para e
 </p>
 
 <p align="center">
-  ![print](https://user-images.githubusercontent.com/94997593/198858403-13fd733b-de9d-4086-8bf1-fd1c9d187146.png)
-
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
 </p>
 
 <br>
 
-<p align="center">
-  <img alt="rocketpay" src=".github/project.png" width="100%">
-</p>
+![print](https://user-images.githubusercontent.com/94997593/198858435-073a6f03-17f5-41f4-8162-c54287495c64.png)
 
 ## 🚀 Tecnologias
 
