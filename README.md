@@ -1,7 +1,7 @@
 <h1 align="center"> Rocketpay </h1>
 
 <p align="center">
-Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
+Desenvolvido em um evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
 </p>
 
 <p align="center">
@@ -12,7 +12,8 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
 </p>
 
 <p align="center">
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+  ![print](https://user-images.githubusercontent.com/94997593/198858403-13fd733b-de9d-4086-8bf1-fd1c9d187146.png)
+
 </p>
 
 <br>
